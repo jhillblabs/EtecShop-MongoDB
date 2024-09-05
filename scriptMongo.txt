@@ -21,5 +21,81 @@ db.produtos.insertMany([
         estoque: 1,
         ativo: true
     },
-    
+    {
+        nome: "Nome do Produto",
+        descricao: "",
+        preco: 1.99,
+        precoDesconto: 1.90,
+        categorias: ["", ""],
+        tags: ["", ""],
+        marca: "",
+        estoque: 1,
+        ativo: true
+    },
+    {
+        nome: "Nome do Produto",
+        descricao: "",
+        preco: 1.99,
+        precoDesconto: 1.90,
+        categorias: ["", ""],
+        tags: ["", ""],
+        marca: "",
+        estoque: 1,
+        ativo: true
+    },
+    {
+        nome: "Nome do Produto",
+        descricao: "",
+        preco: 1.99,
+        precoDesconto: 1.90,
+        categorias: ["", ""],
+        tags: ["", ""],
+        marca: "",
+        estoque: 1,
+        ativo: true
+    },
+    {
+        nome: "Nome do Produto",
+        descricao: "",
+        preco: 1.99,
+        precoDesconto: 1.90,
+        categorias: ["", ""],
+        tags: ["", ""],
+        marca: "",
+        estoque: 1,
+        ativo: true
+    },
+    {
+        nome: "Nome do Produto",
+        descricao: "",
+        preco: 1.99,
+        precoDesconto: 1.90,
+        categorias: ["", ""],
+        tags: ["", ""],
+        marca: "",
+        estoque: 1,
+        ativo: true
+    },
+    {
+        nome: "Nome do Produto",
+        descricao: "",
+        preco: 1.99,
+        precoDesconto: 1.90,
+        categorias: ["", ""],
+        tags: ["", ""],
+        marca: "",
+        estoque: 1,
+        ativo: true
+    },
+    {
+        nome: "Nome do Produto",
+        descricao: "",
+        preco: 1.99,
+        precoDesconto: 1.90,
+        categorias: ["", ""],
+        tags: ["", ""],
+        marca: "",
+        estoque: 1,
+        ativo: true
+    }
 ])

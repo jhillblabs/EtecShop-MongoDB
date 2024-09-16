@@ -15,9 +15,9 @@ db.produtos.insertMany([
         descricao: "",
         preco: 1.99,
         precoDesconto: 1.90,
-        categorias: ["", ""],
-        tags: ["", ""],
-        marca: "",
+        categorias: ["categoria 1", "categoria 2"],
+        tags: ["tag 1", "tag 2"],
+        marca: "Marca",
         estoque: 1,
         ativo: true
     },
